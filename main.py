@@ -9,7 +9,7 @@ from selenium import webdriver
 
 driver = webdriver.Chrome()
 driver.maximize_window()
-driver.get("https://www.uml.edu/student-dashboard#my-academics/enroll/cart?term=3430&career=UGRD")
+driver.get("www.google.com")
 
 time.sleep(3)
 
